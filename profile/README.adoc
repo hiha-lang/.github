@@ -1,1 +1,11 @@
 = hiha: an “orthogonal” programming language
+
+hiha is intended to become a programming language made almost entirely
+from a Pratt parser. Features ordinarily considered “semantic” will
+become matters of lexical and syntactic analysis. The core language
+will be customizable by using plugins to set Pratt parser rules.
+
+There is no formal specification. Our intention is to reveal
+simplicity, not to bury the project in complexity.
+
+hiha is now just in development.
